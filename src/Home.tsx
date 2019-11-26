@@ -33,8 +33,7 @@ export function Home () {
     <div>
       <h3>Current Url</h3>
       <div>{url}</div>
-      <a href={url} target={"_blank"} className={'btn btn-secondary'}>Go to</a>
-      <button className={"btn btn-primary"}>Get Info</button>
+      <a href={url} target={"_blank"} className={'btn btn-primary'}>Duplicate Tab</a>
     </div>
   )
 }

@@ -11,7 +11,7 @@ export default function App () {
         <nav className='navbar navbar-expand-lg navbar-light r-auto bg-light'>
           <ul className='navbar-nav mr-auto'>
             <li className='nav-item'>
-              <a href={"/"}>Chrome Extension Exploration</a>
+              <a href={"/"}>Tab Duplicator</a>
             </li>
           </ul>
         </nav>
