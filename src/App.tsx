@@ -7,7 +7,7 @@ import { Home } from './Home'
 export default function App () {
   return (
     <Router>
-      <div>
+      <div style={{width: "400px"}}>
         <nav className='navbar navbar-expand-lg navbar-light r-auto bg-light'>
           <ul className='navbar-nav mr-auto'>
             <li className='nav-item'>
